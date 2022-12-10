@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e642da1d.css",
+    "main.js": "/static/js/main.62b4dc56.js",
+    "static/media/portfolio4.png": "/static/media/portfolio4.09fc22d43701d200b320.png",
+    "static/media/portfolio1.png": "/static/media/portfolio1.cc4af9005b22c7d6ef5b.png",
+    "static/media/portfolio10.jpg": "/static/media/portfolio10.7bac494dcfe5dcbf7bd5.jpg",
+    "static/media/me-about.jpg": "/static/media/me-about.b8b0bd80a31e9fc8d5c0.jpg",
+    "static/media/portfolio2.png": "/static/media/portfolio2.a0c8c9a5e1891adbfe38.png",
+    "static/media/Lebenslauf_Salah_Elyasi.pdf": "/static/media/Lebenslauf_Salah_Elyasi.49614ffe16c8005feffc.pdf",
+    "static/media/sass-portfolio.jpg": "/static/media/sass-portfolio.ea097c1efcca5b6a9d27.jpg",
+    "static/media/portfolio9.jpg": "/static/media/portfolio9.91be6b2318c2245fb52f.jpg",
+    "static/media/me01.png": "/static/media/me01.cec896270910592bfaed.png",
+    "static/media/portfolio6.png": "/static/media/portfolio6.e46f9c85c7cc94e7f041.png",
+    "static/media/portfolio7.jpg": "/static/media/portfolio7.baefd0b41dedfbfc3315.jpg",
+    "static/media/portfolio8.jpg": "/static/media/portfolio8.aa4e619f2eb92c961c66.jpg",
+    "static/media/portfolio5.png": "/static/media/portfolio5.423ac0f6549e2c5e2198.png",
+    "static/media/portfolio3.png": "/static/media/portfolio3.2f94d006cb8373a4b549.png",
+    "index.html": "/index.html",
+    "main.e642da1d.css.map": "/static/css/main.e642da1d.css.map",
+    "main.62b4dc56.js.map": "/static/js/main.62b4dc56.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e642da1d.css",
+    "static/js/main.62b4dc56.js"
+  ]
+}
